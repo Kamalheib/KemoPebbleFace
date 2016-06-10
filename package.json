@@ -1,0 +1,29 @@
+{
+    "author": "Kamal Heib",
+    "dependencies": {},
+    "keywords": [],
+    "name": "kemo",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Kemo",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "2f64dfee-9dec-4934-93fe-c4f096331895",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
